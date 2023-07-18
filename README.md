@@ -4,7 +4,7 @@
 Bem-vindo ao meu repositório de Análise de Dados Descritiva! Aqui busco armazenar meus projetos que utilizam técnicas de análise de dados descritiva para extrair informações valiosas e auxiliar na tomada de decisões.
 
 ## Sobre Análise de Dados Descritiva
-A Análise de Dados Descritiva é uma das etapas fundamentais em qualquer projeto de Ciência de Dados. Ela envolve a exploração, análise e interpretação de um conjunto de dados com o objetivo de entender suas características principais. Diferente de uma abordagem inferencial ou preditiva, a análise descritiva foca em resumir e organizar os dados de maneira a oferecer uma visão clara sobre o que os dados estão nos contando. 
+A Análise de Dados Descritiva é uma das etapas fundamentais em qualquer projeto de Ciência de Dados. Ela envolve a exploração, análise e interpretação de um conjunto de dados com o objetivo de entender suas características principais. Diferente de uma abordagem inferencial ou preditiva, a análise descritiva foca em resumir e organizar os dados de maneira a oferecer uma visão clara sobre o que os dados estão nos contando.
 
 Ferramentas estatísticas como média, moda, mediana, variação, correlação e distribuições de frequência são utilizadas para entender as tendências, padrões e relações dentro dos dados. 
 
